@@ -6,7 +6,7 @@ Format JSON dalam body yang dikirim ke WebHook :
 Lengkapnya :
 ```json
 {
-  "phone_number": "1234567890",
+  "phone_number": "628567622216",
   "reply_phone_number": "0987654321",
   "chat_number": "1122334455",
   "chat_server": "server1.chat.example",
